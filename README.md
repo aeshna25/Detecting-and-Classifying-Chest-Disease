@@ -1,5 +1,5 @@
 # Detecting-and-Classifying-Chest-Disease
-Develop a model that can detect and classify 4 different chest disease from X-Ray images. 
+Developed a model that can detect and classify 4 different chest disease from X-Ray images. 
 
 ## Understanding Dataset
 For this problem, we have 2 datasets with 4 different type of XRay images. The training dataset has 133 images for each type of Chest Disease.
